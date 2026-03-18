@@ -1,5 +1,5 @@
 class ApiConfig {
-  static const String apiKey = 'fc53bf8eb4f0ed122e92287fbe0017fa';
+  static const String apiKey = 'Your Tmdb Api key';
   static const String baseUrl = 'https://api.themoviedb.org/3';
   static const String imageBaseUrl = 'https://image.tmdb.org/t/p/w500';
   static const String originalImageBaseUrl =
